@@ -1,6 +1,5 @@
-# flutteruiapp
 
-A new Flutter project.
+A new Simple Flutter Login project.With little animations
 
 ## Getting Started
 
