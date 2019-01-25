@@ -1,5 +1,5 @@
 
-A new Simple Flutter Login project.With little animations
+A new Simple Flutter Login project with little animations.
 
 ## Getting Started
 
